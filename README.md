@@ -1,2 +1,2 @@
 # Agileway
-Regression testof Agileway website using C#
+Regression test of Agileway website using C#
